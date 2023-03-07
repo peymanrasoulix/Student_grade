@@ -1,0 +1,15 @@
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\bin\Debug\net6.0\Practice_5_Student_grade.exe
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\bin\Debug\net6.0\Practice_5_Student_grade.deps.json
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\bin\Debug\net6.0\Practice_5_Student_grade.runtimeconfig.json
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\bin\Debug\net6.0\Practice_5_Student_grade.dll
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\bin\Debug\net6.0\Practice_5_Student_grade.pdb
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\obj\Debug\net6.0\Practice_5_Student_grade.csproj.AssemblyReference.cache
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\obj\Debug\net6.0\Practice_5_Student_grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\obj\Debug\net6.0\Practice_5_Student_grade.AssemblyInfoInputs.cache
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\obj\Debug\net6.0\Practice_5_Student_grade.AssemblyInfo.cs
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\obj\Debug\net6.0\Practice_5_Student_grade.csproj.CoreCompileInputs.cache
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\obj\Debug\net6.0\Practice_5_Student_grade.dll
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\obj\Debug\net6.0\refint\Practice_5_Student_grade.dll
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\obj\Debug\net6.0\Practice_5_Student_grade.pdb
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\obj\Debug\net6.0\Practice_5_Student_grade.genruntimeconfig.cache
+C:\Users\Peyman\Desktop\work\C#\college\Practice_5_Student_grade\Practice_5_Student_grade\obj\Debug\net6.0\ref\Practice_5_Student_grade.dll
